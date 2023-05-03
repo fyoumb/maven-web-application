@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.144.119.28:8081/repository/fyoumb-paypal-release/</url>
+	      <url>http://54.86.247.182:8081/repository/app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.144.119.28:8081/repository/fyoumb-snapshot/</url>
+	      <url>http://54.86.247.182:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
